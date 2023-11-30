@@ -23,7 +23,6 @@ export default function RootLayout({ children }) {
         <meta name="theme-color" content="#2f2f2f" media="(prefers-color-scheme: dark)" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="robots" content="noindex,nofollow" />
-        <script async src="https://lvlv.lv/umami/script.js" data-website-id="8c6f1f0c-d6b3-44d0-b4f5-badfb366a181"></script>
       </head>
       <body>
         <Providers>{children}</Providers>
